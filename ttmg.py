@@ -2974,7 +2974,7 @@
       </tr>
       <tr>
         <td id="L407" class="blob-num js-line-number" data-line-number="407"></td>
-        <td id="LC407" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>check</span>.<span class=pl-v>URL</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;https://raw.githubusercontent.com/biplobsd/Google-Colab-CloudTorrent/master/update.xml&quot;</span></td>
+        <td id="LC407" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>check</span>.<span class=pl-v>URL</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;https://raw.githubusercontent.com/helloW3c/Google-Colab-CloudTorrent/master/update.xml&quot;</span></td>
       </tr>
       <tr>
         <td id="L408" class="blob-num js-line-number" data-line-number="408"></td>
